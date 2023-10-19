@@ -1,2 +1,2 @@
 # primer-repositori
-El meu preimer repositori. Kanhai.
+El meu primer repositori. Kanhai.
